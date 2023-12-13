@@ -1,0 +1,6 @@
+[submodule "hrmanager-front"]
+	path = hrmanager-front
+	url = https://github.com/hehmdalolkek/hrmanager-front.git
+[submodule "hrmanager-back"]
+	path = hrmanager-back
+	url = https://github.com/hehmdalolkek/hrmanager-back.git
